@@ -17,7 +17,7 @@ Day001	資料分析與評估
 </br>	Day015	Heatmap & Grid-plot					
 </br>	Day016	模型初體驗 Logistic Regression	
 ## 資料科學特徵技術工程
-</br>	Day017	特徵工程簡介					
+Day017	特徵工程簡介					
 </br>	Day018	特徵類型					
 </br>	Day019	數值型特徵-補缺失值與標準化					
 </br>	Day020	數值型特徵 - 去除離群值					
@@ -32,7 +32,7 @@ Day001	資料分析與評估
 </br>	Day029	特徵評估					
 </br>	Day030	分類型特徵優化 - 葉編碼		
 ## 機器學習基礎模型建立
-</br>	Day031	機器學習概論					
+Day031	機器學習概論					
 </br>	Day032	機器學習-流程與步驟					
 </br>	Day033	機器如何學習?					
 </br>	Day034	訓練/測試集切分的概念					
@@ -49,4 +49,4 @@ Day001	資料分析與評估
 </br>	Day045	tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹					
 </br>	Day046	tree based model - 梯度提升機程式碼撰寫	
 ## 機器學習調整參數
-</br>	Day047	超參數調整與優化					
+Day047	超參數調整與優化					
