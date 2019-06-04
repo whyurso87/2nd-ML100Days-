@@ -1,4 +1,5 @@
 # 2nd-ML100Days-
+## 資料清理數據前處裡
 Day001	資料分析與評估					
 </br>	Day002	EDA-1/讀取資料EDA: Data summary					
 </br>	Day003	3-1如何新建一個 dataframe?3-2 如何讀取其他資料? (非 csv 的資料)					
@@ -14,7 +15,8 @@ Day001	資料分析與評估
 </br>	Day013	程式實作 把連續型變數離散化					
 </br>	Day014	Subplots					
 </br>	Day015	Heatmap & Grid-plot					
-</br>	Day016	模型初體驗 Logistic Regression					
+</br>	Day016	模型初體驗 Logistic Regression	
+## 資料科學特徵技術工程
 </br>	Day017	特徵工程簡介					
 </br>	Day018	特徵類型					
 </br>	Day019	數值型特徵-補缺失值與標準化					
@@ -28,7 +30,8 @@ Day001	資料分析與評估
 </br>	Day027	特徵組合 - 類別與數值組合					
 </br>	Day028	特徵選擇					
 </br>	Day029	特徵評估					
-</br>	Day030	分類型特徵優化 - 葉編碼					
+</br>	Day030	分類型特徵優化 - 葉編碼		
+## 機器學習基礎模型建立
 </br>	Day031	機器學習概論					
 </br>	Day032	機器學習-流程與步驟					
 </br>	Day033	機器如何學習?					
@@ -44,5 +47,6 @@ Day001	資料分析與評估
 </br>	Day043	tree based model - 隨機森林 (Random Forest) 介紹					
 </br>	Day044	tree based model - 隨機森林程式碼撰寫					
 </br>	Day045	tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹					
-</br>	Day046	tree based model - 梯度提升機程式碼撰寫					
+</br>	Day046	tree based model - 梯度提升機程式碼撰寫	
+## 機器學習調整參數
 </br>	Day047	超參數調整與優化					
