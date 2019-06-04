@@ -1,6 +1,6 @@
 # 2nd-ML100Days-
-  Day001	資料分析與評估	
-  Day002	EDA-1/讀取資料EDA: Data summary	
+Day001	資料分析與評估	
+Day002	EDA-1/讀取資料EDA: Data summary	
   Day003	3-1如何新建一個 dataframe?3-2 如何讀取其他資料? (非 csv 的資料)	
   Day004	EDA: 欄位的資料類型介紹及處理	
   Day005	EDA資料分佈	
