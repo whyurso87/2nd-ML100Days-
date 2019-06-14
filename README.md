@@ -49,4 +49,7 @@ Day031	機器學習概論
 </br>	Day045	tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹					
 </br>	Day046	tree based model - 梯度提升機程式碼撰寫	
 ## 機器學習調整參數
-Day047	超參數調整與優化					
+Day047	超參數調整與優化
+</br>	Day048	Kaggle 競賽平台介紹
+</br>	Day049	集成方法 : 混合泛化(Blending)
+</br>	Day050	集成方法 : 堆疊泛化(Stacking)
