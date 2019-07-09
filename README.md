@@ -64,3 +64,18 @@ Day054	clustering 1 非監督式機器學習簡介
 </br>	Day060	PCA 觀察 : 使用手寫辨識資料集
 </br>	Day061	dimension reduction 2 降維方法-T-SNE
 </br>	Day062	t-sne 觀察 : 分群與流形還原
+## 深度學習理論與實作
+Day063	神經網路介紹
+</br>	Day064	深度學習體驗 : 模型調整與學習曲線
+</br>	Day065	深度學習體驗 : 啟動函數與正規化
+## 初探深度學習使用Keras
+Day066	Keras 安裝與介紹
+</br>	Day067	Keras Dataset
+</br>	Day068	Keras Sequential API
+</br>	Day069	Keras Module API
+</br>	Day070	Multi-layer Perception多層感知
+</br>	Day071	損失函數
+</br>	Day072	啟動函數
+</br>	Day073	梯度下降Gradient Descent
+</br>	Day074	Gradient Descent 數學原理
+
