@@ -87,7 +87,7 @@ Day066	Keras 安裝與介紹
 </br>	Day081	訓練神經網路的細節與技巧 - Regularization
 </br>	Day082	訓練神經網路的細節與技巧 - Dropout
 </br>	Day083	訓練神經網路的細節與技巧 - Batch normalization
-</br>	Day084	規化/機移除/批次標準化的 組合與比較
+</br>	Day084	正規化/隨機移除/批次標準化的組合與比較
 </br>	Day085	訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop
 </br>	Day086	訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
 </br>	Day087	訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate
