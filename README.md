@@ -1,6 +1,6 @@
 # 2nd-ML100Days-				
 ## 資料清理數據前處裡
-</br>
+
 ###	Day001	資料分析與評估	
 ###	Day002	EDA-1/讀取資料EDA: Data summary	
 ###	Day003	3-1如何新建一個 dataframe?3-2 如何讀取其他資料? (非 csv 的資料)	
@@ -17,9 +17,9 @@
 ###	Day014	Subplots	
 ###	Day015	Heatmap & Grid-plot	
 ###	Day016	模型初體驗 Logistic Regression
-</br>
+
 ## 資料科學特徵技術工程
-</br>
+
 ###	Day017	特徵工程簡介	
 ###	Day018	特徵類型	
 ###	Day019	數值型特徵-補缺失值與標準化	
@@ -34,9 +34,9 @@
 ###	Day028	特徵選擇	
 ###	Day029	特徵評估	
 ###	Day030	分類型特徵優化 - 葉編碼
-</br>
+
 ## 機器學習基礎模型建立
-</br>
+
 ###	Day031	機器學習概論	
 ###	Day032	機器學習-流程與步驟	
 ###	Day033	機器如何學習?	
@@ -53,18 +53,18 @@
 ###	Day044	tree based model - 隨機森林程式碼撰寫	
 ###	Day045	tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹	
 ###	Day046	tree based model - 梯度提升機程式碼撰寫
-</br>
+
 ## 機器學習調整參數
-</br>
+
 ###	Day047	超參數調整與優化	
 ###	Day048	Kaggle 競賽平台介紹	
 ###	Day049	集成方法 : 混合泛化(Blending)	
 ###	Day050	集成方法 : 堆疊泛化(Stacking)
-</br>
+
 ## Day051-Day053 Midterm exam
-</br>
+
 ##  非監督式機器學習	
-</br>
+
 ###	Day054	clustering 1 非監督式機器學習簡介	
 ###	Day055	clustering 2 聚類算法	
 ###	Day056	K-mean 觀察 : 使用輪廓分析	
@@ -74,15 +74,15 @@
 ###	Day060	PCA 觀察 : 使用手寫辨識資料集	
 ###	Day061	dimension reduction 2 降維方法-T-SNE	
 ###	Day062	t-sne 觀察 : 分群與流形還原
-</br>
+
 ## 深度學習理論與實作			
-</br>
+
 ###	Day063	神經網路介紹	
 ###	Day064	深度學習體驗 : 模型調整與學習曲線	
 ###	Day065	深度學習體驗 : 啟動函數與正規化	
-</br>
+
 ## 初探深度學習使用Keras				
-</br>
+
 ###	Day066	Keras 安裝與介紹	
 ###	Day067	Keras Dataset	
 ###	Day068	Keras Sequential API	
@@ -109,9 +109,9 @@
 ###	Day089	訓練神經網路的細節與技巧 - 撰寫自己的 Loss function
 ###	Day090	使用傳統電腦視覺與機器學習進行影像辨識
 ###	Day091	使用傳統電腦視覺與機器學習進行影像辨識
-</br>
+
 ## 深度學習應用卷積神經網路				
-</br>
+
 ###	Day092	卷積神經網路 (Convolution Neural Network, CNN) 簡介	
 ###	Day093	卷積神經網路架構細節	
 ###	Day094	卷積神經網路 - 卷積(Convolution)層與參數調整	
@@ -121,11 +121,11 @@
 ###	Day098	訓練卷積神經網路的細節與技巧 - 處理大量數據	
 ###	Day099	訓練卷積神經網路的細節與技巧 - 處理小量數據	
 ###	Day100	訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)	
-</br>
+
 ## Day101-Day103 Final exam				
-</br>
+
 ## Bonus 進階補充				
-</br>
+
 ###	Day104	互動式網頁神經網路視覺化	
 ###	Day105	CNN卷積網路回顧	
 ###	Day106	常見影像資料集介紹 (Cifar-10, ImageNet, COCO)	
