@@ -78,4 +78,36 @@ Day066	Keras 安裝與介紹
 </br>	Day072	啟動函數
 </br>	Day073	梯度下降Gradient Descent
 </br>	Day074	Gradient Descent 數學原理
-
+</br>	Day075	BackPropagation
+</br>	Day076	優化器optimizers
+</br>	Day077	訓練神經網路的細節與技巧 - Validation and overfit
+</br>	Day078	訓練神經網路前的注意事項
+</br>	Day079	訓練神經網路的細節與技巧 - Learning rate effect
+</br>	Day080	優化器與學習率的組合與比較
+</br>	Day081	訓練神經網路的細節與技巧 - Regularization
+</br>	Day082	訓練神經網路的細節與技巧 - Dropout
+</br>	Day083	訓練神經網路的細節與技巧 - Batch normalization
+</br>	Day084	規化/機移除/批次標準化的 組合與比較
+</br>	Day085	訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop
+</br>	Day086	訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
+</br>	Day087	訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate
+</br>	Day088	訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數
+</br>	Day089	訓練神經網路的細節與技巧 - 撰寫自己的 Loss function
+</br>	Day090	使用傳統電腦視覺與機器學習進行影像辨識
+</br>	Day091	使用傳統電腦視覺與機器學習進行影像辨識
+## 深度學習應用卷積神經網路
+Day092	卷積神經網路 (Convolution Neural Network, CNN) 簡介
+</br>	Day093	卷積神經網路架構細節
+</br>	Day094	卷積神經網路 - 卷積(Convolution)層與參數調整
+</br>	Day095	卷積神經網路 - 池化(Pooling)層與參數調整
+</br>	Day096	Keras 中的 CNN layers
+</br>	Day097	使用 CNN 完成 CIFAR-10 資料集
+</br>	Day098	訓練卷積神經網路的細節與技巧 - 處理大量數據
+</br>	Day099	訓練卷積神經網路的細節與技巧 - 處理小量數據
+</br>	Day100	訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)
+## Day101-Day103 Final exam
+## Bonus 進階補充
+Day104	互動式網頁神經網路視覺化
+</br>	Day105	CNN卷積網路回顧
+</br>	Day106	常見影像資料集介紹 (Cifar-10, ImageNet, COCO)
+</br>	Day107	電腦視覺應用介紹 - 影像分類, 影像分割, 物件偵測
